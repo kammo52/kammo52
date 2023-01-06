@@ -5,7 +5,7 @@ Hi 👋 My name is Kamlesh Kumar Yadav
 
 * 🌍  I'm based in Delhi
 
-* ✉️  You can contact me at [kamlesh.alpha@gmail.com](mailto:kamlesh.alpha@gmail.com)
+* ✉️  You can contact me at [kamleshtb@gmail.com](mailto:kamleshtb@gmail.com)
 
 
 ### Skills
